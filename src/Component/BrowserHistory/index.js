@@ -35,6 +35,7 @@ class BrowserHistory extends Component {
               className="history-logo"
             />
           </div>
+
           <div className="search-bar-bg-container">
             <div className="search-bar-container">
               <img
