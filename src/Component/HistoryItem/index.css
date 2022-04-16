@@ -1,0 +1,25 @@
+.history-item-container {
+  padding: 5px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.time {
+  margin-right: 25px;
+}
+.logo {
+}
+.details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 80%;
+}
+.delete-btn {
+  border: 0px;
+  outline: none;
+  margin-right: 10px;
+  background-color: transparent;
+}
